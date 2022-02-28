@@ -1,30 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+ <img width="50%" alt="logo-underall" src="https://user-images.githubusercontent.com/17303936/156006086-3d129082-20f3-486b-9ed3-00826b122b1a.png">
+</p>
 
-## Getting Started
+Underall: Monitorar a saúde da plantação, identificar problemas com agilidade, pulveri zar de forma precisa e preventiva, visando reduzir a quantidade de insumos utilizados nas plantações.
 
-First, run the development server:
+# Desafio
+[HackatAgro](https://www.hackatagro.com/).
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+# Participantes
+[Alysson Donaiski](https://www.linkedin.com/in/alysson-luis-donaiski-4184ba36/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[Felipe Reis](https://www.linkedin.com/in/felipereismb/)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+[Kleyson Morais](https://www.linkedin.com/in/kleysonmorais/)
 
-## Learn More
+[Misael Tavares](https://www.linkedin.com/in/misael-tavares-54316937/)
 
-To learn more about Next.js, take a look at the following resources:
+# Links
+[Vídeo Pitch](https://youtu.be/nzrh4npaIaQ)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[Vídeo Demo](https://youtu.be/aaAr7aD_wxc)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+# Scripts
+Este projeto foi feito com [Next.js](https://nextjs.org/) inicializado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### `yarn install`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Instala todas as dependências necessárias para execurar o projeto.
+
+### `yarn dev ou npm run dev`
+
+Executa o projeto em modo de desenvolvimento
+Abra [http://localhost:3000](http://localhost:3000) para ver a execução no browser.
